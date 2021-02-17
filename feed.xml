@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
+    <link href="https://photo.pratiknilange.in/feed.xml" rel="self" type="application/atom+xml" />
+    <link href="https://photo.pratiknilange.in/" rel="alternate" type="text/html"/>
+    <updated>2021-02-17T17:15:50+05:30</updated>
+    <id>2021-02-17T17:15:50+05:30</id>
+    <title type="html">Photo · Pratik Nilange</title>
+    <subtitle>tech, design, and lame jokes.</subtitle>
+    <author>
+      <name>Pratik Nilange</name>
+      <email>pratik.nilange@icloud.com</email>
+      <uri>https://photo.pratiknilange.in</uri>
+    </author>
+    <entry>
+      <title type="html">KIAL, Bangalore</title>
+      <link href="https://photo.pratiknilange.in/kial-bangalore/" rel="alternate" type="text/html" title="KIAL, Bangalore" />
+      <published></published>
+      <updated></updated>
+      <id>https://photo.pratiknilange.in//kial-bangalore/</id>
+      <content type="html">
+        <![CDATA[<figure><a href="https://photo.pratiknilange.in/kial-bangalore/"><img src="https://photo.pratiknilange.in//photos/large/KIAL,+Bangalore-686656.jpg" alt="KIAL, Bangalore" /></a></figure>
+      ]]>
+    </content>
+    <author>
+      <name>Pratik Nilange</name>
+      <email>pratik.nilange@icloud.com</email>
+      <uri>https://photo.pratiknilange.in</uri>
+    </author>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/KIAL,+Bangalore-686656.jpg" />
+      <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/KIAL,+Bangalore-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      </entry>
+      <entry>
+        <title type="html">Rajajinagar, Bangalore</title>
+        <link href="https://photo.pratiknilange.in/rajajinagar-bangalore/" rel="alternate" type="text/html" title="Rajajinagar, Bangalore" />
+        <published></published>
+        <updated></updated>
+        <id>https://photo.pratiknilange.in//rajajinagar-bangalore/</id>
+        <content type="html">
+          <![CDATA[<figure><a href="https://photo.pratiknilange.in/rajajinagar-bangalore/"><img src="https://photo.pratiknilange.in//photos/large/Rajajinagar,+Bangalore-686656.jpg" alt="Rajajinagar, Bangalore" /></a></figure>
+        ]]>
+      </content>
+      <author>
+        <name>Pratik Nilange</name>
+        <email>pratik.nilange@icloud.com</email>
+        <uri>https://photo.pratiknilange.in</uri>
+      </author>
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Rajajinagar,+Bangalore-686656.jpg" />
+        <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Rajajinagar,+Bangalore-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        </entry>
+        <entry>
+          <title type="html">Rajajinagar, Bangalore II</title>
+          <link href="https://photo.pratiknilange.in/rajajinagar-bangalore-ii/" rel="alternate" type="text/html" title="Rajajinagar, Bangalore II" />
+          <published></published>
+          <updated></updated>
+          <id>https://photo.pratiknilange.in//rajajinagar-bangalore-ii/</id>
+          <content type="html">
+            <![CDATA[<figure><a href="https://photo.pratiknilange.in/rajajinagar-bangalore-ii/"><img src="https://photo.pratiknilange.in//photos/large/Rajajinagar,+Bangalore+II-686656.jpg" alt="Rajajinagar, Bangalore II" /></a></figure>
+          ]]>
+        </content>
+        <author>
+          <name>Pratik Nilange</name>
+          <email>pratik.nilange@icloud.com</email>
+          <uri>https://photo.pratiknilange.in</uri>
+        </author>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Rajajinagar,+Bangalore+II-686656.jpg" />
+          <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Rajajinagar,+Bangalore+II-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          </entry>
+        </feed>
