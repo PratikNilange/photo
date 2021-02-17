@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
     <link href="https://photo.pratiknilange.in/feed.xml" rel="self" type="application/atom+xml" />
     <link href="https://photo.pratiknilange.in/" rel="alternate" type="text/html"/>
-    <updated>2021-02-17T18:06:43+05:30</updated>
-    <id>2021-02-17T18:06:43+05:30</id>
+    <updated>2021-02-17T18:59:17+05:30</updated>
+    <id>2021-02-17T18:59:17+05:30</id>
     <title type="html">Photo · Pratik Nilange</title>
     <subtitle>tech, design, and lame jokes.</subtitle>
     <author>
@@ -13,13 +13,13 @@
       <uri>https://photo.pratiknilange.in</uri>
     </author>
     <entry>
-      <title type="html">Angled Landscape</title>
-      <link href="https://photo.pratiknilange.in/angled-landscape/" rel="alternate" type="text/html" title="Angled Landscape" />
-      <published>2020-02-03T13:30:09+05:30</published>
-      <updated>2020-02-03T13:30:09+05:30</updated>
-      <id>https://photo.pratiknilange.in//angled-landscape/</id>
+      <title type="html">KIAL Bangalore</title>
+      <link href="https://photo.pratiknilange.in/kial-bangalore/" rel="alternate" type="text/html" title="KIAL Bangalore" />
+      <published></published>
+      <updated></updated>
+      <id>https://photo.pratiknilange.in//kial-bangalore/</id>
       <content type="html">
-        <![CDATA[<figure><a href="https://photo.pratiknilange.in/angled-landscape/"><img src="https://photo.pratiknilange.in//photos/large/Angled+Landscape-686656.jpg" alt="Angled Landscape" /></a></figure>
+        <![CDATA[<figure><a href="https://photo.pratiknilange.in/kial-bangalore/"><img src="https://photo.pratiknilange.in//photos/large/KIAL%20Bangalore-686656.jpg" alt="KIAL Bangalore" /></a></figure>
       ]]>
     </content>
     <author>
@@ -27,17 +27,17 @@
       <email>pratik.nilange@icloud.com</email>
       <uri>https://photo.pratiknilange.in</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Angled+Landscape-686656.jpg" />
-      <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Angled+Landscape-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/KIAL%20Bangalore-686656.jpg" />
+      <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/KIAL%20Bangalore-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
-        <title type="html">Almost Due</title>
-        <link href="https://photo.pratiknilange.in/almost-due/" rel="alternate" type="text/html" title="Almost Due" />
-        <published>2019-10-20T17:44:35+05:30</published>
-        <updated>2019-10-20T17:44:35+05:30</updated>
-        <id>https://photo.pratiknilange.in//almost-due/</id>
+        <title type="html">Rajkumar Road</title>
+        <link href="https://photo.pratiknilange.in/rajkumar-road/" rel="alternate" type="text/html" title="Rajkumar Road" />
+        <published></published>
+        <updated></updated>
+        <id>https://photo.pratiknilange.in//rajkumar-road/</id>
         <content type="html">
-          <![CDATA[<figure><a href="https://photo.pratiknilange.in/almost-due/"><img src="https://photo.pratiknilange.in//photos/large/Almost+Due-686656.jpg" alt="Almost Due" /></a></figure>
+          <![CDATA[<figure><a href="https://photo.pratiknilange.in/rajkumar-road/"><img src="https://photo.pratiknilange.in//photos/large/Rajkumar%20Road-686656.jpg" alt="Rajkumar Road" /></a></figure>
         ]]>
       </content>
       <author>
@@ -45,17 +45,17 @@
         <email>pratik.nilange@icloud.com</email>
         <uri>https://photo.pratiknilange.in</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Almost+Due-686656.jpg" />
-        <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Almost+Due-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Rajkumar%20Road-686656.jpg" />
+        <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Rajkumar%20Road-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
-          <title type="html">Apples In The Sun</title>
-          <link href="https://photo.pratiknilange.in/apples-in-the-sun/" rel="alternate" type="text/html" title="Apples In The Sun" />
-          <published>2019-09-21T18:02:39+05:30</published>
-          <updated>2019-09-21T18:02:39+05:30</updated>
-          <id>https://photo.pratiknilange.in//apples-in-the-sun/</id>
+          <title type="html">Rajajinagar Bangalore</title>
+          <link href="https://photo.pratiknilange.in/rajajinagar-bangalore/" rel="alternate" type="text/html" title="Rajajinagar Bangalore" />
+          <published></published>
+          <updated></updated>
+          <id>https://photo.pratiknilange.in//rajajinagar-bangalore/</id>
           <content type="html">
-            <![CDATA[<figure><a href="https://photo.pratiknilange.in/apples-in-the-sun/"><img src="https://photo.pratiknilange.in//photos/large/Apples+In+The+Sun-686656.jpg" alt="Apples In The Sun" /></a></figure>
+            <![CDATA[<figure><a href="https://photo.pratiknilange.in/rajajinagar-bangalore/"><img src="https://photo.pratiknilange.in//photos/large/Rajajinagar%20Bangalore-686656.jpg" alt="Rajajinagar Bangalore" /></a></figure>
           ]]>
         </content>
         <author>
@@ -63,79 +63,7 @@
           <email>pratik.nilange@icloud.com</email>
           <uri>https://photo.pratiknilange.in</uri>
         </author>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Apples+In+The+Sun-686656.jpg" />
-          <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Apples+In+The+Sun-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Rajajinagar%20Bangalore-686656.jpg" />
+          <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Rajajinagar%20Bangalore-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
-          <entry>
-            <title type="html">Apple & Child</title>
-            <link href="https://photo.pratiknilange.in/apple-child/" rel="alternate" type="text/html" title="Apple & Child" />
-            <published>2019-09-21T18:02:27+05:30</published>
-            <updated>2019-09-21T18:02:27+05:30</updated>
-            <id>https://photo.pratiknilange.in//apple-child/</id>
-            <content type="html">
-              <![CDATA[<figure><a href="https://photo.pratiknilange.in/apple-child/"><img src="https://photo.pratiknilange.in//photos/large/Apple+&+Child-686656.jpg" alt="Apple & Child" /></a></figure>
-            ]]>
-          </content>
-          <author>
-            <name>Pratik Nilange</name>
-            <email>pratik.nilange@icloud.com</email>
-            <uri>https://photo.pratiknilange.in</uri>
-          </author>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Apple+&+Child-686656.jpg" />
-            <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Apple+&+Child-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-            </entry>
-            <entry>
-              <title type="html">Abandoned Cube</title>
-              <link href="https://photo.pratiknilange.in/abandoned-cube/" rel="alternate" type="text/html" title="Abandoned Cube" />
-              <published>2019-09-12T13:27:17+05:30</published>
-              <updated>2019-09-12T13:27:17+05:30</updated>
-              <id>https://photo.pratiknilange.in//abandoned-cube/</id>
-              <content type="html">
-                <![CDATA[<figure><a href="https://photo.pratiknilange.in/abandoned-cube/"><img src="https://photo.pratiknilange.in//photos/large/Abandoned+Cube-686656.jpg" alt="Abandoned Cube" /></a></figure>
-              ]]>
-            </content>
-            <author>
-              <name>Pratik Nilange</name>
-              <email>pratik.nilange@icloud.com</email>
-              <uri>https://photo.pratiknilange.in</uri>
-            </author>
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Abandoned+Cube-686656.jpg" />
-              <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Abandoned+Cube-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-              </entry>
-              <entry>
-                <title type="html">Amy Szatkowski</title>
-                <link href="https://photo.pratiknilange.in/amy-szatkowski/" rel="alternate" type="text/html" title="Amy Szatkowski" />
-                <published>2019-09-12T13:24:06+05:30</published>
-                <updated>2019-09-12T13:24:06+05:30</updated>
-                <id>https://photo.pratiknilange.in//amy-szatkowski/</id>
-                <content type="html">
-                  <![CDATA[<figure><a href="https://photo.pratiknilange.in/amy-szatkowski/"><img src="https://photo.pratiknilange.in//photos/large/Amy+Szatkowski-686656.jpg" alt="Amy Szatkowski" /></a></figure>
-                ]]>
-              </content>
-              <author>
-                <name>Pratik Nilange</name>
-                <email>pratik.nilange@icloud.com</email>
-                <uri>https://photo.pratiknilange.in</uri>
-              </author>
-              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Amy+Szatkowski-686656.jpg" />
-                <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Amy+Szatkowski-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                </entry>
-                <entry>
-                  <title type="html">Attention To Lighting</title>
-                  <link href="https://photo.pratiknilange.in/attention-to-lighting/" rel="alternate" type="text/html" title="Attention To Lighting" />
-                  <published>2019-09-08T00:35:04+05:30</published>
-                  <updated>2019-09-08T00:35:04+05:30</updated>
-                  <id>https://photo.pratiknilange.in//attention-to-lighting/</id>
-                  <content type="html">
-                    <![CDATA[<figure><a href="https://photo.pratiknilange.in/attention-to-lighting/"><img src="https://photo.pratiknilange.in//photos/large/Attention+To+Lighting-686656.jpg" alt="Attention To Lighting" /></a></figure>
-                  ]]>
-                </content>
-                <author>
-                  <name>Pratik Nilange</name>
-                  <email>pratik.nilange@icloud.com</email>
-                  <uri>https://photo.pratiknilange.in</uri>
-                </author>
-                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Attention+To+Lighting-686656.jpg" />
-                  <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Attention+To+Lighting-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
-                  </entry>
-                </feed>
+        </feed>
