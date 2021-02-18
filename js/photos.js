@@ -7,6 +7,22 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="latur" style="background-image: url('/photos/tint/Latur-65ba1d.jpeg')" title="Latur">
+  <img class="lazyload" data-src="/photos/thumbnail/Latur-ccf4df.jpeg" src="/photos/tint/Latur-65ba1d.jpeg" height="5773" width="4330" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Latur-686656.jpeg')"></span>
+  </span>
+  <a class="open" href="/latur" data-target="latur">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/reva-uni-fest-2018" data-target="reva-uni-fest-2018" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <!-- <ul class="meta">
+    <li>Redmi Note 7S</li>
+    <li>1/4187</li>
+    <li><span class="aperture"><em>f</em>/</span>1.8</li>
+	</ul> -->
+</li>
 <li class="item " id="reva-uni-fest-2018" style="background-image: url('/photos/tint/REVA%20Uni%20Fest%202018-65ba1d.jpg')" title="REVA Uni Fest 2018">
   <img class="lazyload" data-src="/photos/thumbnail/REVA%20Uni%20Fest%202018-ccf4df.jpg" src="/photos/tint/REVA%20Uni%20Fest%202018-65ba1d.jpg" height="1200" width="1600" />
   <span class="full">
@@ -14,6 +30,9 @@ lazyload();
   </span>
   <a class="open" href="/reva-uni-fest-2018" data-target="reva-uni-fest-2018">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/latur" data-target="latur" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/garden-city-rajajinagar" data-target="garden-city-rajajinagar" class="next" title="Go to next photo">
     <span>Next</span>
   </a>

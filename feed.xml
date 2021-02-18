@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
     <link href="https://photo.pratiknilange.in/feed.xml" rel="self" type="application/atom+xml" />
     <link href="https://photo.pratiknilange.in/" rel="alternate" type="text/html"/>
-    <updated>2021-02-18T15:40:24+05:30</updated>
-    <id>2021-02-18T15:40:24+05:30</id>
+    <updated>2021-02-18T21:06:07+05:30</updated>
+    <id>2021-02-18T21:06:07+05:30</id>
     <title type="html">Photo · Pratik Nilange</title>
     <subtitle>tech, design, and lame jokes.</subtitle>
     <author>
@@ -13,13 +13,13 @@
       <uri>https://photo.pratiknilange.in</uri>
     </author>
     <entry>
-      <title type="html">REVA Uni Fest 2018</title>
-      <link href="https://photo.pratiknilange.in/reva-uni-fest-2018/" rel="alternate" type="text/html" title="REVA Uni Fest 2018" />
-      <published>2018-04-07T20:31:49+05:30</published>
-      <updated>2018-04-07T20:31:49+05:30</updated>
-      <id>https://photo.pratiknilange.in//reva-uni-fest-2018/</id>
+      <title type="html">Latur</title>
+      <link href="https://photo.pratiknilange.in/latur/" rel="alternate" type="text/html" title="Latur" />
+      <published>2021-02-18T20:23:44+05:30</published>
+      <updated>2021-02-18T20:23:44+05:30</updated>
+      <id>https://photo.pratiknilange.in//latur/</id>
       <content type="html">
-        <![CDATA[<figure><a href="https://photo.pratiknilange.in/reva-uni-fest-2018/"><img src="https://photo.pratiknilange.in//photos/large/REVA%20Uni%20Fest%202018-686656.jpg" alt="REVA Uni Fest 2018" /></a></figure>
+        <![CDATA[<figure><a href="https://photo.pratiknilange.in/latur/"><img src="https://photo.pratiknilange.in//photos/large/Latur-686656.jpeg" alt="Latur" /></a></figure>
       ]]>
     </content>
     <author>
@@ -27,17 +27,17 @@
       <email>pratik.nilange@icloud.com</email>
       <uri>https://photo.pratiknilange.in</uri>
     </author>
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/REVA%20Uni%20Fest%202018-686656.jpg" />
-      <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/REVA%20Uni%20Fest%202018-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Latur-686656.jpeg" />
+      <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Latur-686656.jpeg" xmlns:media="http://search.yahoo.com/mrss/" />
       </entry>
       <entry>
-        <title type="html">Garden City Rajajinagar</title>
-        <link href="https://photo.pratiknilange.in/garden-city-rajajinagar/" rel="alternate" type="text/html" title="Garden City Rajajinagar" />
-        <published></published>
-        <updated></updated>
-        <id>https://photo.pratiknilange.in//garden-city-rajajinagar/</id>
+        <title type="html">REVA Uni Fest 2018</title>
+        <link href="https://photo.pratiknilange.in/reva-uni-fest-2018/" rel="alternate" type="text/html" title="REVA Uni Fest 2018" />
+        <published>2018-04-07T20:31:49+05:30</published>
+        <updated>2018-04-07T20:31:49+05:30</updated>
+        <id>https://photo.pratiknilange.in//reva-uni-fest-2018/</id>
         <content type="html">
-          <![CDATA[<figure><a href="https://photo.pratiknilange.in/garden-city-rajajinagar/"><img src="https://photo.pratiknilange.in//photos/large/Garden%20City%20Rajajinagar-686656.jpg" alt="Garden City Rajajinagar" /></a></figure>
+          <![CDATA[<figure><a href="https://photo.pratiknilange.in/reva-uni-fest-2018/"><img src="https://photo.pratiknilange.in//photos/large/REVA%20Uni%20Fest%202018-686656.jpg" alt="REVA Uni Fest 2018" /></a></figure>
         ]]>
       </content>
       <author>
@@ -45,17 +45,17 @@
         <email>pratik.nilange@icloud.com</email>
         <uri>https://photo.pratiknilange.in</uri>
       </author>
-      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Garden%20City%20Rajajinagar-686656.jpg" />
-        <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Garden%20City%20Rajajinagar-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/REVA%20Uni%20Fest%202018-686656.jpg" />
+        <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/REVA%20Uni%20Fest%202018-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
         <entry>
-          <title type="html">Rajajinagar Bangalore</title>
-          <link href="https://photo.pratiknilange.in/rajajinagar-bangalore/" rel="alternate" type="text/html" title="Rajajinagar Bangalore" />
+          <title type="html">Garden City Rajajinagar</title>
+          <link href="https://photo.pratiknilange.in/garden-city-rajajinagar/" rel="alternate" type="text/html" title="Garden City Rajajinagar" />
           <published></published>
           <updated></updated>
-          <id>https://photo.pratiknilange.in//rajajinagar-bangalore/</id>
+          <id>https://photo.pratiknilange.in//garden-city-rajajinagar/</id>
           <content type="html">
-            <![CDATA[<figure><a href="https://photo.pratiknilange.in/rajajinagar-bangalore/"><img src="https://photo.pratiknilange.in//photos/large/Rajajinagar%20Bangalore-686656.jpg" alt="Rajajinagar Bangalore" /></a></figure>
+            <![CDATA[<figure><a href="https://photo.pratiknilange.in/garden-city-rajajinagar/"><img src="https://photo.pratiknilange.in//photos/large/Garden%20City%20Rajajinagar-686656.jpg" alt="Garden City Rajajinagar" /></a></figure>
           ]]>
         </content>
         <author>
@@ -63,17 +63,17 @@
           <email>pratik.nilange@icloud.com</email>
           <uri>https://photo.pratiknilange.in</uri>
         </author>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Rajajinagar%20Bangalore-686656.jpg" />
-          <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Rajajinagar%20Bangalore-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Garden%20City%20Rajajinagar-686656.jpg" />
+          <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Garden%20City%20Rajajinagar-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
           </entry>
           <entry>
-            <title type="html">Rajkumar Road</title>
-            <link href="https://photo.pratiknilange.in/rajkumar-road/" rel="alternate" type="text/html" title="Rajkumar Road" />
+            <title type="html">Rajajinagar Bangalore</title>
+            <link href="https://photo.pratiknilange.in/rajajinagar-bangalore/" rel="alternate" type="text/html" title="Rajajinagar Bangalore" />
             <published></published>
             <updated></updated>
-            <id>https://photo.pratiknilange.in//rajkumar-road/</id>
+            <id>https://photo.pratiknilange.in//rajajinagar-bangalore/</id>
             <content type="html">
-              <![CDATA[<figure><a href="https://photo.pratiknilange.in/rajkumar-road/"><img src="https://photo.pratiknilange.in//photos/large/Rajkumar%20Road-686656.jpg" alt="Rajkumar Road" /></a></figure>
+              <![CDATA[<figure><a href="https://photo.pratiknilange.in/rajajinagar-bangalore/"><img src="https://photo.pratiknilange.in//photos/large/Rajajinagar%20Bangalore-686656.jpg" alt="Rajajinagar Bangalore" /></a></figure>
             ]]>
           </content>
           <author>
@@ -81,17 +81,17 @@
             <email>pratik.nilange@icloud.com</email>
             <uri>https://photo.pratiknilange.in</uri>
           </author>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Rajkumar%20Road-686656.jpg" />
-            <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Rajkumar%20Road-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Rajajinagar%20Bangalore-686656.jpg" />
+            <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Rajajinagar%20Bangalore-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
             </entry>
             <entry>
-              <title type="html">KIAL Bangalore</title>
-              <link href="https://photo.pratiknilange.in/kial-bangalore/" rel="alternate" type="text/html" title="KIAL Bangalore" />
+              <title type="html">Rajkumar Road</title>
+              <link href="https://photo.pratiknilange.in/rajkumar-road/" rel="alternate" type="text/html" title="Rajkumar Road" />
               <published></published>
               <updated></updated>
-              <id>https://photo.pratiknilange.in//kial-bangalore/</id>
+              <id>https://photo.pratiknilange.in//rajkumar-road/</id>
               <content type="html">
-                <![CDATA[<figure><a href="https://photo.pratiknilange.in/kial-bangalore/"><img src="https://photo.pratiknilange.in//photos/large/KIAL%20Bangalore-686656.jpg" alt="KIAL Bangalore" /></a></figure>
+                <![CDATA[<figure><a href="https://photo.pratiknilange.in/rajkumar-road/"><img src="https://photo.pratiknilange.in//photos/large/Rajkumar%20Road-686656.jpg" alt="Rajkumar Road" /></a></figure>
               ]]>
             </content>
             <author>
@@ -99,7 +99,25 @@
               <email>pratik.nilange@icloud.com</email>
               <uri>https://photo.pratiknilange.in</uri>
             </author>
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/KIAL%20Bangalore-686656.jpg" />
-              <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/KIAL%20Bangalore-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/Rajkumar%20Road-686656.jpg" />
+              <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/Rajkumar%20Road-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
               </entry>
-            </feed>
+              <entry>
+                <title type="html">KIAL Bangalore</title>
+                <link href="https://photo.pratiknilange.in/kial-bangalore/" rel="alternate" type="text/html" title="KIAL Bangalore" />
+                <published></published>
+                <updated></updated>
+                <id>https://photo.pratiknilange.in//kial-bangalore/</id>
+                <content type="html">
+                  <![CDATA[<figure><a href="https://photo.pratiknilange.in/kial-bangalore/"><img src="https://photo.pratiknilange.in//photos/large/KIAL%20Bangalore-686656.jpg" alt="KIAL Bangalore" /></a></figure>
+                ]]>
+              </content>
+              <author>
+                <name>Pratik Nilange</name>
+                <email>pratik.nilange@icloud.com</email>
+                <uri>https://photo.pratiknilange.in</uri>
+              </author>
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photo.pratiknilange.in//photos/large/KIAL%20Bangalore-686656.jpg" />
+                <media:content medium="image" url="https://photo.pratiknilange.in//photos/large/KIAL%20Bangalore-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                </entry>
+              </feed>
