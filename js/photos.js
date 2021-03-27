@@ -33,7 +33,7 @@ lazyload();
   <a href="/latur" data-target="latur" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
-  <a href="/garden-city-rajajinagar" data-target="garden-city-rajajinagar" class="next" title="Go to next photo">
+  <a href="/bangalore-palace" data-target="bangalore-palace" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
   <!-- <ul class="meta">
@@ -42,12 +42,12 @@ lazyload();
     <li><span class="aperture"><em>f</em>/</span>2.2</li>
 	</ul> -->
 </li>
-<li class="item " id="garden-city-rajajinagar" style="background-image: url('/photos/tint/Garden%20City%20Rajajinagar-65ba1d.jpg')" title="Garden City Rajajinagar">
-  <img class="lazyload" data-src="/photos/thumbnail/Garden%20City%20Rajajinagar-ccf4df.jpg" src="/photos/tint/Garden%20City%20Rajajinagar-65ba1d.jpg" height="1536" width="1152" />
+<li class="item " id="bangalore-palace" style="background-image: url('/photos/tint/Bangalore%20Palace-65ba1d.jpg')" title="Bangalore Palace">
+  <img class="lazyload" data-src="/photos/thumbnail/Bangalore%20Palace-ccf4df.jpg" src="/photos/tint/Bangalore%20Palace-65ba1d.jpg" height="1536" width="1152" />
   <span class="full">
-    <span style="background-image: url('/photos/large/Garden%20City%20Rajajinagar-686656.jpg')"></span>
+    <span style="background-image: url('/photos/large/Bangalore%20Palace-686656.jpg')"></span>
   </span>
-  <a class="open" href="/garden-city-rajajinagar" data-target="garden-city-rajajinagar">Open</a>
+  <a class="open" href="/bangalore-palace" data-target="bangalore-palace">Open</a>
   <a class="close" href="/">Close</a>
   <a href="/reva-uni-fest-2018" data-target="reva-uni-fest-2018" class="previous" title="Go to previous photo">
     <span>Previous</span>
@@ -68,7 +68,7 @@ lazyload();
   </span>
   <a class="open" href="/rajajinagar-bangalore" data-target="rajajinagar-bangalore">Open</a>
   <a class="close" href="/">Close</a>
-  <a href="/garden-city-rajajinagar" data-target="garden-city-rajajinagar" class="previous" title="Go to previous photo">
+  <a href="/bangalore-palace" data-target="bangalore-palace" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <a href="/rajkumar-road" data-target="rajkumar-road" class="next" title="Go to next photo">
@@ -107,6 +107,25 @@ lazyload();
   <a class="open" href="/kial-bangalore" data-target="kial-bangalore">Open</a>
   <a class="close" href="/">Close</a>
   <a href="/rajkumar-road" data-target="rajkumar-road" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <a href="/garden-city-rajajinagar" data-target="garden-city-rajajinagar" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <!-- <ul class="meta">
+    <li></li>
+    <li></li>
+    <li><span class="aperture"><em>f</em>/</span>0.0</li>
+	</ul> -->
+</li>
+<li class="item " id="garden-city-rajajinagar" style="background-image: url('/photos/tint/Garden%20City%20Rajajinagar-65ba1d.jpg')" title="Garden City Rajajinagar">
+  <img class="lazyload" data-src="/photos/thumbnail/Garden%20City%20Rajajinagar-ccf4df.jpg" src="/photos/tint/Garden%20City%20Rajajinagar-65ba1d.jpg" height="1536" width="1152" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/Garden%20City%20Rajajinagar-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/garden-city-rajajinagar" data-target="garden-city-rajajinagar">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/kial-bangalore" data-target="kial-bangalore" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
   <!-- <ul class="meta">
